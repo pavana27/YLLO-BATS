@@ -1,0 +1,57 @@
+{"properties": [
+  {
+    "name": "allFramesFolder",
+    "type": "java.lang.String",
+    "description": "A description for 'allFramesFolder'"
+  },
+  {
+    "name": "samplingFloder",
+    "type": "java.lang.String",
+    "description": "A description for 'samplingFloder'"
+  },
+  {
+    "name": "register.url",
+    "type": "java.lang.String",
+    "description": "A description for 'register.url'"
+  },
+  {
+    "name": "controller.url",
+    "type": "java.lang.String",
+    "description": "A description for 'controller.url'"
+  },
+  {
+    "name": "aplr.secret.key",
+    "type": "java.lang.String",
+    "description": "A description for 'aplr.secret.key'"
+  },
+  {
+    "name": "aplr.url",
+    "type": "java.lang.String",
+    "description": "A description for 'aplr.url'"
+  },
+  {
+    "name": "deviceName",
+    "type": "java.lang.String",
+    "description": "A description for 'deviceName'"
+  },
+  {
+    "name": "device.name",
+    "type": "java.lang.String",
+    "description": "A description for 'device.name'"
+  },
+  {
+    "name": "frames.folder.sampling",
+    "type": "java.lang.String",
+    "description": "A description for 'frames.folder.sampling'"
+  },
+  {
+    "name": "frames.folder.all",
+    "type": "java.lang.String",
+    "description": "A description for 'frames.folder.all'"
+  },
+  {
+    "name": "device.ipAddress",
+    "type": "java.lang.String",
+    "description": "A description for 'device.ipAddress'"
+  }
+]}

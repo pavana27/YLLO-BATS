@@ -1,0 +1,9 @@
+/**/logs/*
+/**/target/*
+/**/bin/*
+.recommenders/*
+.metadata/*
+/.metadata/
+/.recommenders/
+/**/.DS_Store
+/.idea/
