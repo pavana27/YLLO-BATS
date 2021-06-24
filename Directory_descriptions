@@ -1,0 +1,3 @@
+Main files to execute YLLO with SORT ( sorting algorithm) can be found under YLLO-v4-GIT\main_original_yolov4_IR.py, before running the program place weights and cfg under yolo-coco
+Multi Rate allocation prgram can be found under Multi-Camera-Rate-Allocation folder
+To create a edge computing infrastructure run respective code for edge-device or edge-controller code under Edge-Computing-Code directory 
