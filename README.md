@@ -9,7 +9,9 @@ More description on converting YOLOv4 pre trained weights into OPENVINO format c
 
 Pretrained YOLOv4 weights can be found [[3]](#3). Before running YLLO, Please place the downloaded weights inside **yolo-coco** folder under src. 
 
-
+## Citation
+If using the code please cite as:
+Pavana Pradeep Kumar,Amitangshu Pal and Krishna Kant, “Resource Efficient Edge ComputingInfrastructure for Video Surveillance”,IEEE Transactions on Sustainable Computing, 2021
 
 ## References
 <a id="1">[1]</a>
